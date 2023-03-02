@@ -23,7 +23,7 @@ export const config = {
     // will be called from there.
     //
     specs: [
-        './'
+        './python/'
     ],
     // Patterns to exclude.
     exclude: [
